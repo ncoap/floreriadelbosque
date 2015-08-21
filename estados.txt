@@ -1,0 +1,14 @@
+estados de tablas
+
+pedido:
+--estado : 'N' o 'A'
+--ver    : 'P' o 'D'
+
+Producto:
+--estado : 'A' o 'D'
+
+Sub-Categoria:
+estado   : 'A' o 'D'
+
+tarifas:
+estado : 'A' o 'D'

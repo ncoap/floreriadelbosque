@@ -1,0 +1,17 @@
+index ---
+carrito --
+busqueda --
+mi cuenta --
+quienes somos --
+especiales --
+contacto --
+bebes y niños--
+condolencias--
+productos x subcategoria
+detalle producto  --
+confirmar compra --
+pago transferencia --
+mis pedidos ---
+detalle pedido --
+datos personales --
+login --
